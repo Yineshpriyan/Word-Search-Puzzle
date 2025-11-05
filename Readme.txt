@@ -2,9 +2,10 @@ Word Search Puzzle
 ---------------
 
 Requirements:
-(word_search_grid.csv)
+1. word_search_grid.csv
   If you have a image of the puzzle. You have convert it into a CSV File. (like Each letter in a cell)
-(word list)
+
+2. word_list.txt
   Then you need to get the words to find out in the grid.
   make sure you arrange the words in one line in comma separated format.
   Eg: 
