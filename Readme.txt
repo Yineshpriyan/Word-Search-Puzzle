@@ -15,7 +15,7 @@ Requirements:
 Steps:
 1. Run the index.html file.
 2. Select the CSV file.
-3. Enter the list of words (in comma separated format)
+3. Enter the list of words (in comma separated format / get the words from word_list.txt)
 4. Hit search.
 
 
