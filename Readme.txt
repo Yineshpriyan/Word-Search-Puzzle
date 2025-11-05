@@ -7,6 +7,8 @@ Requirements:
 (word list)
   Then you need to get the words to find out in the grid.
   make sure you arrange the words in one line in comma separated format.
+  Eg: 
+  absolute, adopt, aggressive, ashamed, blind, burn, cancel, civil, combination, declare, decrease, dismiss, examination, forgive, hire, impress, lower, measurement, patient, relief, schedule, scheme, tune, willing, wrong
 
 
 Steps:
